@@ -11,7 +11,7 @@ btn.addEventListener("click", async function() {
 
     console.log(start)   
     let result = ((end - start)/ppls)
-    p.textContent = "The Result is: " + result
+    p.textContent = "Each ppl should have: " + result
     
     
     
